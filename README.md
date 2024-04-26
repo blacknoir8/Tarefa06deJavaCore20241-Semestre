@@ -1,30 +1,5 @@
 # Atividade06_de_java_Faculdade_Flamingo
 
-Enunciado
- Bom dia Caros Alunos,
-
-
-
-Como vão?
-
-
-
-Espero que muito bem.
-
-
-
-Abaixo, segue as atividades de linguagem de programação Java Core.
-
-
-
-Bons Estudos.
-
-
-
-Professor Obama.
-
-
-
 Questões a serem respondidas:
 
 1) Ler dois valores numéricos inteiros e apresentar o resultado da diferença do maior pelo menor valor.
